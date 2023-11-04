@@ -133,5 +133,5 @@ for row_num, (interp, label) in enumerate(archs):
             ax.set_title(f'{col_num-4}ε', fontdict=title_font)
 
 plt.tight_layout()
-plt.savefig("./diagrams/synthetic_MCP.pdf",format='pdf', dpi=800) 
+plt.savefig("./diagrams/perturb_MCP.pdf",format='pdf', dpi=800) 
 plt.show()
