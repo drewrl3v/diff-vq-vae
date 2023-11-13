@@ -1,6 +1,6 @@
 # diff-vq-vae
 
-Repo for: Differential VQ-VAE’S FOR ROBUST WHITE MATTER STREAMLINE ENCODINGS
+Repo for: Differentiable VQ-VAE’S FOR ROBUST WHITE MATTER STREAMLINE ENCODINGS
 
 ## Requirements:
 
